@@ -1,1 +1,1 @@
-Ezirmin logs remote repo.
+Hello, world!

@@ -1,0 +1,1 @@
+Ezirmin logs remote repo.
